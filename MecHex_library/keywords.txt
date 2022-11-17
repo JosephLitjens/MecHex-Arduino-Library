@@ -1,0 +1,7 @@
+
+
+MecHex	KEYWORD1
+
+HexSetup	KEYWORD2
+HexRead	KEYWORD2
+HexWrite	KEYWORD2
